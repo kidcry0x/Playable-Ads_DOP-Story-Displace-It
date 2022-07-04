@@ -8,10 +8,16 @@
 
 ## Demo Playable Ads
 
-- [**Demo Playable Ads version 1**](https://kidcry0x.github.io/Playable-Ads_Magic-Hands-Dinosaur-Rescue/ver1/PA_MagicHands_V1.min.html)
-- [**Demo Playable Ads version 2**](https://kidcry0x.github.io/Playable-Ads_Magic-Hands-Dinosaur-Rescue/ver2/PA_MagicHands_V2.min.html)
+- [**Demo Playable Ads - IEC version 1**](https://kidcry0x.github.io/Playable-Ads_DOP-Story-Displace-It/DOP_Story_IECv1_Minh_17062022/)
+- [**Demo Playable Ads - IEC version 2**](https://kidcry0x.github.io/Playable-Ads_DOP-Story-Displace-It/DOP_Story_IECv2_Minh_20062022/)
+- [**Demo Playable Ads version 1**](https://kidcry0x.github.io/Playable-Ads_DOP-Story-Displace-It/DOP_Story_V1_Minh_03062022/)
+- [**Demo Playable Ads version 2**](https://kidcry0x.github.io/Playable-Ads_DOP-Story-Displace-It/DOP_Story_V2_Minh_08062022/)
+- [**Demo Playable Ads version 3**](https://kidcry0x.github.io/Playable-Ads_DOP-Story-Displace-It/DOP_Story_V3_Minh_09062022/)
+- [**Demo Playable Ads version 4**](https://kidcry0x.github.io/Playable-Ads_DOP-Story-Displace-It/DOP_Story_V4_Minh_15062022/)
+- [**Demo Playable Ads version 5**](https://kidcry0x.github.io/Playable-Ads_DOP-Story-Displace-It/DOP_Story_V5_Minh_17062022/)
+- [**Demo Playable Ads version 6**](https://kidcry0x.github.io/Playable-Ads_DOP-Story-Displace-It/DOP_Story_V6_Minh_20062022/)
 
 ## Link Game
 
 - [**Link: Google Play**](https://play.google.com/store/apps/details?id=com.dop.brain.displacestory)
-- [**Link: App Store**]()
+<!-- - [**Link: App Store**]() -->
